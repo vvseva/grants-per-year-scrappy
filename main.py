@@ -1,0 +1,1 @@
+scrapy startproject scholar_scraper
